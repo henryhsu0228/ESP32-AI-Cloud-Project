@@ -25,10 +25,9 @@ Cloud services for data storage and remote management
 Version Control & Project Management: GitHub
 How to Get Started
 Clone the repository:
-
-bash
-複製程式碼
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 git clone https://github.com/henryhsu0228/ESP32-AI-Cloud-Project.git
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Set up the development environment:
 Install ESP32 toolchain and necessary dependencies.
 
