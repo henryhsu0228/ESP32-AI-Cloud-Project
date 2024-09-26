@@ -1,5 +1,6 @@
 # ESP32-AI-Cloud-Project
 Overview
+
 This project is an educational initiative designed to teach high school students how to build an IoT (Internet of Things) application using the ESP32 microcontroller, integrated with AI (Artificial Intelligence) and cloud technologies. Students will collaborate through GitHub to manage their code, track progress, and complete a real-world IoT project while learning key technical skills.
 
 Project Goals
